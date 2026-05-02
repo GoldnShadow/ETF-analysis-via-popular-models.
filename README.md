@@ -1,6 +1,3 @@
-# ETF-analysis-via-popular-models.
-
-
 # ETF Analysis Dashboard
 
 A Streamlit dashboard applying 10 financial models to 34 ETFs using live data from Yahoo Finance.
